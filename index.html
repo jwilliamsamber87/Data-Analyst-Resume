@@ -13,9 +13,11 @@
                               color: black;
                               padding: 100px;
                               text-align: center;
-                              font-size: 16px;}                 
-                    .containerone { gap:10px;}
-                    .containertwo{ gap:10px;}
+                              font-size: 16px;}
+
+                  .grid-conatiner{display:grid;
+                                  grid-template-rows: 100px auto;
+                                  grid-template-columns: 400px auto;
                   
                 html {background:lightgrey; }
                 body {background-color:lightgrey;
@@ -38,7 +40,8 @@
                         padding: 20px;
                         text-align:center;
                         color:black;}
-                 ul {font-family: "unlock", serif;}
+                 ul {font-family: "unlock", serif;
+                    }
             </style>
      </head>
 
@@ -48,6 +51,8 @@
         </header>
      
         <main>
+
+            <div class="grid-container">
             <div class="containerone">
                       
                 <img src= "https://sdk.bitmoji.com/render/panel/c7583a5d-6d79-49ff-b3fc-9a44438f62ee-52cbd5b6-3748-41d0-8cb1-e159d754ca7d-v1.png?transparent=1&palette=1" >
@@ -72,9 +77,9 @@
                     decision-making in this role. I enjoy solving complex business problems and collaborating with </br >
                     cross-functional teams to drive manufacturing improvements. Team work makes the dream work! </br>                  
                  </h3> 
-                        
-                <h3>"I speacialize in EV Manufacturing and Data Analytics "</h3>
+                 <h3>"I speacialize in EV Manufacturing and Data Analytics "</h3>
               </div>
+            
               <div class="containerfour">
                  <h3>Education</h3>
                 <p>John Muir High School , 2005</br >
@@ -84,8 +89,9 @@
                 <ul>
                     <li>Tesla | Process Technician</li>
                     <li>Panasonic | Machine Operator</li>
-                  
-                  
+                </ul>
+              </div>
+              <div class="containerfive">'
                   <h3>Programming Languages</h3>
                         <ul>
                             <li>Python</li>
@@ -110,13 +116,15 @@
                             <li>Electrical & Quality Testing</li> 
                             <li>Statistical Process Control</li>
                         </ul>
-
+              </div>
+            <div class="containersix">
                 <h3>Programming Projects </h3>
                     <ul>
                         <li> Name Generator</li>
                         <li>BMI & Tip GPA Calculators</li>
                         <li>Text Based Game</li>
                     </ul>
+            </div>
             </div>
         </main>
     </body>        
