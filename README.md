@@ -1,24 +1,36 @@
-🌸✨ Hey there! I'm Jessica Williams ✨🌸
-🎓 Aspiring Data Scientist | 📊 Tableau Enthusiast | 🛠️ Future Applications Engineer
-📍 Sacramento, CA | 👩🏽‍💻 Currently studying Data Analytics + learning full-stack dev
+🎨 Jessica Williams’ Portfolio Website
+👋 Hey there! Welcome to my personal portfolio website repo.
 
-💡 I love building beautiful dashboards, automating boring stuff, and solving real-world problems in manufacturing & supply chain.
+I created this site as an interactive resume and portfolio to showcase my skills, projects, and experience in data analytics, software development, and manufacturing process improvement.
 
-🚀 My dream? Creating smart, responsive HMIs & real-time production apps that make factory floors run smoother than a fresh press 💅🏽⚙️
+✨ What You’ll Find
+📌 About Me — Learn about my journey as a Process Technician pursuing a career in data science and software development.
 
-🛠️ Skills I'm Growing:
+📌 Work Experience — Highlights of my roles at Tesla Motors and Panasonic Energy North America, with a focus on root cause analysis, process control, and quality assurance.
 
-📈 Tableau | 📊 Power BI
+📌 Skills & Tools — A rundown of the technologies and platforms I work with, including:
 
-🐍 Python | 💻 SQL | 🔌 PLC Integration
+Software Development: Python, C++, HTML5, CSS, JavaScript (jQuery)
 
-💾 Data Viz | 🔍 Analytics | ⚙️ Process Improvement
+Data Analytics: Tableau, Power BI, MS Azure, SQL
 
-🌈 Lover of all things tech, coffee, and confidence 💖
-🧠 Learning every day. Grinding every night.
-📬 Open to collabs, internships & mentorship!
+Manufacturing: PLC, industrial sensors, Jira, MOS, electrical & quality testing
 
-✨ “Soft on the outside, sharp with the data.” 💕
+📌 Project Links — Direct links to my LinkedIn profile, GitHub projects, certifications, dashboards, and various engineering, science, and analyst projects.
+
+🎯 Purpose
+This website serves as an evolving portfolio to:
+✅ Document my technical growth
+✅ Provide potential employers a glimpse into my background
+✅ Demonstrate my ability to build websites and present information effectively
+
+🚀 Future Plans
+I plan to continuously improve the design and content of this website to reflect my latest projects, certifications, and skills.
+
+📁 Files
+index.html — The main page of the portfolio
+
+assets/ — Images, stylesheets, and supporting media for the website
 
 <!---
 jwilliamsamber87/jwilliamsamber87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
